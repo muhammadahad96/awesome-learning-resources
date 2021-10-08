@@ -379,7 +379,9 @@
 
 ## Laravel
 
-[list-of-21-artisan-make-commands-with-parameters](https://quickadminpanel.com/blog/list-of-21-artisan-make-commands-with-parameters/)
+- [Laravel framework](https://laravel.com)
+- [Laracasts](https://laracasts.com/)
+- [list-of-21-artisan-make-commands-with-parameters](https://quickadminpanel.com/blog/list-of-21-artisan-make-commands-with-parameters/)
 
 ## Machine Learning
 
@@ -448,8 +450,6 @@
 - [The right way](https://phptherightway.com/)
 - [In site learn](https://www.learn-php.org/)
 - [Complete macos PHP setup](https://getgrav.org/blog/macos-mojave-apache-multiple-php-versions)
-- [Laravel framework](https://laravel.com)
-- [Laracasts](https://laracasts.com/)
 - [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
 - [DevProjects - Free Real-World PHP Projects](https://www.codementor.io/projects/php)
 
